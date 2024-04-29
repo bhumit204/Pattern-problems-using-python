@@ -9,13 +9,8 @@ Same explaination is present in each file like:
 
 Run the patterns programs as per below:
 
-    ```shell
-
     # Go to directory where pattern program are present
     cd path_to_pattern_directory
 
     # Run the patterns program Pattern-22-Number-Pattern.py using below command
     python Pattern-22-Number-Pattern.py
-
-    ```
-s

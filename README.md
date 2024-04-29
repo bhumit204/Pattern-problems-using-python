@@ -4,12 +4,12 @@ Source of Pattern problems are [takeuforward.org](https://takeuforward.org/striv
 
 Same explaination is present in each file like:
 
-![](image\Pattern-comments.png)
+![](image/Pattern-comments.png)
 
 
 Run the patterns programs as per below:
 
-    ```bash
+    ```shell
     # Go to directory where pattern program are present
     cd path_to_pattern_directory
 

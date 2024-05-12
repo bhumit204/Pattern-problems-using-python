@@ -25,5 +25,5 @@ def Number_Crown_Pattern(N):
         pos += str(indx)
         print(pos + (" " * (2 * (N - indx))) + pos[::-1])
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Number_Crown_Pattern(N)

@@ -28,5 +28,5 @@ def Alpha_Hill_Pattern(N):
         pattern += chr(letter + indx)
         print((" " * (N - indx)) + pattern + pattern[:-1][::-1])
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Alpha_Hill_Pattern(N)

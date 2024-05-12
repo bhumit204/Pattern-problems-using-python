@@ -29,5 +29,5 @@ def Inverted_Numbered_Right_Pyramid(N):
     print(pattern)
 
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Inverted_Numbered_Right_Pyramid(N)

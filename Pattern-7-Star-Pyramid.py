@@ -23,5 +23,5 @@ def Star_Pyramid(N):
     for indx in range(1, N + 1):
         print((" " * (N - indx)) + ("*" * (2*indx - 1)))
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Star_Pyramid(N)

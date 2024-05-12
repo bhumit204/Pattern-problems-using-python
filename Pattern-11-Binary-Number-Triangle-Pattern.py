@@ -28,5 +28,5 @@ def Binary_Number_Triangle_Pattern(N):
             pos = 1 - pos
         print('')
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Binary_Number_Triangle_Pattern(N)

@@ -36,5 +36,5 @@ def Diamond_Pyramid(N):
             continue
         print((" " * (indx - 1)) + ("*" * ((2*N + 1)-2*indx)))
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Diamond_Pyramid(N)

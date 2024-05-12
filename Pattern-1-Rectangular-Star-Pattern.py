@@ -27,5 +27,5 @@ def Rectangular_Star_Pattern(N):
         print("* "*N)
 
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Rectangular_Star_Pattern(N)

@@ -26,5 +26,5 @@ def Increasing_Letter_Triangle_Pattern(N):
         strng += f"{chr(indx)} "
         print(strng)
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Increasing_Letter_Triangle_Pattern(N)

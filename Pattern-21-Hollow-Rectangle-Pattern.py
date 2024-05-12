@@ -27,5 +27,5 @@ def Hollow_Rectangle_Pattern(N):
         else:
             print("*" + (" " * (N -2)) + "*")
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Hollow_Rectangle_Pattern(N)

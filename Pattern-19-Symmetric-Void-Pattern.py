@@ -38,5 +38,5 @@ def Symmetric_Void_Pattern(N):
         pattern = ('*' * indx) + (" " * (N - indx))
         print(pattern + pattern[::-1])
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Symmetric_Void_Pattern(N)

@@ -25,5 +25,5 @@ def Right_Angled_Number_Pyramid2(N):
         print(f"{indx} " * indx)
 
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Right_Angled_Number_Pyramid2(N)

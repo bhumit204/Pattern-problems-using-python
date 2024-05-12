@@ -27,5 +27,5 @@ def Right_Angled_Number_Pyramid(N):
         print(pattern_row)
 
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Right_Angled_Number_Pyramid(N)

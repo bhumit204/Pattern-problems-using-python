@@ -33,5 +33,5 @@ def Number_Pattern(N):
             print(N - min(xindx, yindx, (2*N - 2 - xindx), (2*N - 2 - yindx)), end=' ')
         print('')
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Number_Pattern(N)

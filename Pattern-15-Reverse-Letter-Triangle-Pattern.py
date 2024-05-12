@@ -28,5 +28,5 @@ def Reverse_Letter_Triangle_Pattern(N):
         pattern = strng + '\n' + pattern
     print(pattern)
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Reverse_Letter_Triangle_Pattern(N)

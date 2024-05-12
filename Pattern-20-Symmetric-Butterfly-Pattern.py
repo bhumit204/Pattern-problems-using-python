@@ -35,5 +35,5 @@ def Symmetric_Butterfly_Pattern(N):
         pattern = ('*' * (N - indx)) + (" " * indx)
         print(pattern + pattern[::-1])
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Symmetric_Butterfly_Pattern(N)

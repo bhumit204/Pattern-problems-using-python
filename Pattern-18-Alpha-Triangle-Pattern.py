@@ -26,5 +26,5 @@ def Alpha_Triangle_Pattern(N):
         pattern = f"{chr(indx)} " + pattern
         print(pattern)
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Alpha_Triangle_Pattern(N)

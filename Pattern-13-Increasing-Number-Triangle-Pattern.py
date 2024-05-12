@@ -28,5 +28,5 @@ def Increasing_Number_Triangle_Pattern(N):
             print(f"{pos} ", end='')
         print('')
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Increasing_Number_Triangle_Pattern(N)

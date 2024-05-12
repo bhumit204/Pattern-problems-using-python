@@ -25,5 +25,5 @@ def Inverted_Right_Pyramid(N):
         print(f"* " * indx)
 
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Inverted_Right_Pyramid(N)

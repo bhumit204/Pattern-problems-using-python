@@ -32,5 +32,5 @@ def Half_Diamond_Pyramid(N):
             indx = abs(indx)
         print((" " * (N - 1)) + ("*" * (N - indx)))
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Half_Diamond_Pyramid(N)

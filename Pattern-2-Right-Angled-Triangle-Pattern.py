@@ -25,5 +25,5 @@ def Right_Angled_Triangle_Pattern(N):
         print("* "*indx)
 
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Right_Angled_Triangle_Pattern(N)

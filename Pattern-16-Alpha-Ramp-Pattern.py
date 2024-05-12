@@ -25,5 +25,5 @@ def Alpha_Ramp_Pattern(N):
     for indx in range(1,N+1):
         print(f"{chr(letter + indx)} " * indx)
 
-N = int(input("Enter Positive nunber:"))
+N = int(input("Enter Positive Number:"))
 Alpha_Ramp_Pattern(N)
